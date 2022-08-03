@@ -1,0 +1,11 @@
+{
+  "name": "flam",
+  "short_name": "flam",
+  "icons": [
+    { "src": "/", "sizes": "192x192", "type": "image/png" },
+    { "src": "/testWorkLogo.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
